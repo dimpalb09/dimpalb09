@@ -12,12 +12,41 @@ I enjoy working with cloud platforms, containerization, and backend systems that
 I aim to design **secure, cloud-native solutions** using modern tools and best practices.
 
 
-## 🛠️ Skills & Technologies
-- ☁️ Cloud Platforms: AWS, Microsoft Azure  
-- 🐳 Containerization: Docker  
-- ⚙️ DevOps: CI/CD basics, Cloud Architecture  
-- 💻 Backend & Server-Side Concepts  
-- 🔐 Cloud Security Fundamentals
+## 🛠️ Skills & Technologies:
+
+### ☁️ Cloud Platforms
+- Amazon Web Services (AWS)
+- Microsoft Azure
+
+### ⚙️ DevOps & Tools
+- Linux
+- Docker
+- Kubernetes
+- Git
+- Terraform
+- CI/CD Pipelines
+
+### 💻 Programming & Scripting
+- HTML5
+- Python
+- Bash Scripting
+
+### 🤖 ML / DL Tools & Frameworks
+- Pandas
+- NumPy
+- Scikit-learn
+- TensorFlow
+
+### 🗄️ Database
+- MySQL
+
+### 🤝 Soft Skills
+- Communication & Cross-team Collaboration
+- Technical Documentation
+- Troubleshooting
+- Problem Solving
+- Time Management
+
 
 
 ## 🌱 Currently Learning
