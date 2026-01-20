@@ -52,7 +52,10 @@ I aim to design **secure, cloud-native solutions** using modern tools and best p
 ## 🌱 Currently Learning
 - Advanced AWS services  
 - DevOps workflows & automation  
-- Scalable cloud architecture  
+- Scalable cloud architecture
+- reactjs
+- Promotheus
+- Grafana
 
 
 ## 🎯 Goals
